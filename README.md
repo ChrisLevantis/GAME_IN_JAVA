@@ -23,3 +23,7 @@ NOTE THE COLORS THAT CHANGE IN LETTERS FRAME AND (AND IN THE GAME FRAME AFTER TH
 
 
 DATE --> Thursday October 6 2022 /// LANGUAGE --> JAVA /// STATUS AT THIS DATE --> Undergraduate Student in University of Aegean.
+
+
+TO RUN THIS:
+-- Simply run main class in your code edotor.
